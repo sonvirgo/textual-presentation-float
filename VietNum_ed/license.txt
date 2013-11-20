@@ -1,0 +1,78 @@
+VietNum Evaluation License
+
+VietNum ® Copyright © 1987-2007 by NguyenLuongSon Groups Associates.
+All rights reserved.
+This license applies to the evaluation version of VietNum.  If you do not have an evaluation version of VietNum, see the section titled VietNum Standard License. 
+VietNum License
+Evaluation Version
+NguyenLuongSon Groups Associates. 
+Your Agreement to this License
+By using, copying, transmitting, distributing or installing VietNum 3.8 ("VietNum"), you agree to all of the terms of this agreement (“License”).
+
+Please read the license terms below.  If you do not agree to all of the terms of this License, then do not use, copy, transmit, distribute, or install VietNum.
+Scope of License
+This is not free software.  Subject to the terms below, you are hereby licensed by NguyenLuongSon Groups Associates. (“SGA”) to use one copy of VietNum, on one (1) computer or workstation, for evaluation purposes without charge for a period of 21 days.  If you use this software after the 21-day evaluation period a registration fee of $99.99 is required.  Payments must be in US dollars drawn on a bank, and should be sent to NguyenLuongSon Groups Associates., P 48, C1 Building, Nam Dong lq, Hanoi, Vietnam.  See the VietNum web site at http://diendansv.hutech.edu.vn/upload/2007111111024_snack.html for information about online ordering and quantity discounts.
+
+Unregistered use of VietNum after the 21-day evaluation period is in violation of applicable and international copyright laws.
+You may, without making any payment to SGA:
+
+a)	give exact copies of this evaluation version of VietNum personally to anyone, except for the purpose of extending their 21-day evaluation period;
+b)	distribute exact copies of this evaluation version of VietNum, if done exclusively through electronic channels; and 
+c)	make as many exact copies of this evaluation version of VietNum as you wish, for purposes of distribution as described in (a) and (b) above.
+
+You are specifically prohibited from charging, or requesting donations, for any copies, however made, and from distributing such copies with other products of any kind, commercial or otherwise, without prior written permission from SGA. SGA reserves the right to revoke the above distribution rights at any time, for any or no reason.
+
+All rights of any kind in VietNum which are not expressly granted in this License are entirely and exclusively reserved to and by SGA.  You may not rent, lease, modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on, VietNum. You may not make access to VietNum available to others in connection with a service bureau, application service provider, or similar business. 
+
+Warranty Disclaimers and Liability Limitations
+
+VietNum, and any and all accompanying software, files, data and materials, are distributed and provided “AS IS” and with no warranties of any kind, whether express or implied. In particular, there is no warranty for the optional virus scanning feature. (VietNum does not scan for viruses, it simply runs external programs that claim to perform this function.)   You acknowledge that good data processing procedure dictates that any program, including VietNum, must be thoroughly tested with non-critical data before you rely on it, and you hereby assume the entire risk of using the program.  This disclaimer of warranty constitutes an essential part of this License. 
+
+Any liability of SGA will be limited exclusively to you may return the complete package unused, within thirty (30) days after purchase, if any.  In addition, in no event shall SGA, or its principals, shareholders, officers, employees, affiliates, contractors, subsidiaries, or parent organizations, be liable for any indirect, incidental, consequential, or punitive damages whatsoever relating to the use of VietNum, or to your relationship with SGA.
+
+In addition, in no event does SGA authorize you to use VietNum in applications or systems where VietNum's failure to perform can reasonably be expected to result in a significant physical injury, or in loss of life.  Any such use by you is entirely at your own risk, and you agree to hold SGA harmless from any and all claims or losses relating to such unauthorized use.
+
+General
+
+This License is the complete statement of the agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements.  This License shall be governed by the laws of the applicable, without regard to applicable choice-of-law rules.  Exclusive jurisdiction and venue for all matters relating to this License shall be in courts and fora located in the applicable, and you consent to such jurisdiction and venue.  There are no third party beneficiaries of any promises, obligations or representations made by SGA herein.  Any waiver by SGA of any violation of this License by you shall not constitute or contribute to a waiver of any other or future violation by you of the same provision, or any other provision, of this License. 
+
+Copyright © 1987-2007 by NguyenLuongSon Groups Associates.  All rights reserved.
+
+VietNum Standard License
+
+VietNum® Copyright © 1987-2007 by NguyenLuongSon Groups Associates.
+All rights reserved.
+
+This license applies to the standard-licensed version of VietNum.  If you have an evaluation version of VietNum, see the section titled VietNum Evaluation License.
+
+VietNum License
+NguyenLuongSon Groups Associates.
+Your Agreement to this License
+
+You should carefully read the following terms and conditions before using, installing or distributing this software.  Unless you have a different license agreement signed by NguyenLuongSon Groups Associates (“SGA”) your use, distribution, or installation of VietNum indicates your acceptance of this agreement ("License").  
+
+If you do not agree to all of the terms and conditions of this License, then: (a) do not copy, install, distribute or use any copy of VietNum with which this License is included, and (b) in addition, if you paid SGA or an authorized SGA reseller for a package consisting of one or more copies of VietNum, you may return the complete package unused, within thirty (30) days after purchase.
+
+The terms and conditions of this License describe the permitted use and user(s) of each Licensed Copy of VietNum.  For purposes of this License, if you have a valid single-copy license, you have the right to use a single "Licensed Copy" of VietNum; if you or your organization has a valid multi-user license, then you or your organization have/has the right to use up to a number of "Licensed Copies" of VietNum equal to the number of copies indicated in the documents issued by SGA when granting the license.
+
+Scope of License
+
+Each Licensed Copy of VietNum may either be used by a single person who uses the software personally on one or more computers, or installed on a single workstation used nonsimultaneously by multiple people, but not both. This is not a concurrent use license.
+
+Each Licensed Copy may be accessed through a network, provided that you have purchased rights to use a Licensed Copy for each workstation that will access VietNum through the network.  For instance, if 8 different workstations will access VietNum on the network, you must purchase rights to use 8 Licensed Copies of VietNum, regardless of whether the 8 workstations will access VietNum at different times or concurrently.
+
+All rights of any kind in VietNum which are not expressly granted in this License are entirely and exclusively reserved to and by SGA.  You may not rent, lease, modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on, VietNum, nor permit anyone else to do so. You may not make access to VietNum available to others in connection with a service bureau, application service provider, or similar business, nor permit anyone else to do so. 
+
+Warranty Disclaimers and Liability Limitations
+
+VietNum, and any and all accompanying software, files, data and materials, are distributed and provided “AS IS” and with no warranties of any kind, whether express or implied. In particular, there is no warranty for the optional virus scanning feature. (VietNum does not scan for viruses, it simply runs external programs that claim to perform this function.)   You acknowledge that good data processing procedure dictates that any program, including VietNum, must be thoroughly tested with non-critical data before there is any reliance on it, and you hereby assume the entire risk of all use of the copies of VietNum covered by this License.  This disclaimer of warranty constitutes an essential part of this License. 
+
+Any liability of SGA will be limited exclusively to you may return the complete package unused, within thirty (30) days after purchase.  In addition, in no event shall SGA, or its principals, shareholders, officers, employees, affiliates, contractors, subsidiaries, or parent organizations, be liable for any indirect, incidental, consequential, or punitive damages whatsoever relating to the use of VietNum, or to your relationship with SGA.
+
+In addition, in no event does SGA authorize you or anyone else to use VietNum in applications or systems where VietNum's failure to perform can reasonably be expected to result in a significant physical injury, or in loss of life.  Any such use is entirely at your own risk, and you agree to hold SGA harmless from any and all claims or losses relating to such unauthorized use.
+
+General
+
+This License is the complete statement of the agreement between the parties on the subject matter, and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements.  This License shall be governed by the laws of the applicable, without regard to applicable choice-of-law rules.  Exclusive jurisdiction and venue for all matters relating to this License shall be in courts and fora located in the applicable, and you consent to such jurisdiction and venue.  There are no third party beneficiaries of any promises, obligations or representations made by SGA herein.    Any waiver by SGA of any violation of this License by you shall not constitute, nor contribute to, a waiver by SGA of any other or future violation of the same provision, or any other provision, of this License. 
+
+Copyright © 1987-2007 by NguyenLuongSon Groups Associates.  All rights reserved.
