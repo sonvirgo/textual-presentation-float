@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[NumAfx.dsp]
+SCC_Aux_Path = "\\bcc\d$\BCC"
+SCC_Project_Name = "$/BCC/TelephoneBanking/Programs/NUMAFX", MLBAAAAA
