@@ -4,3 +4,5 @@
 *.rtf binary
 *.txt binary
 *.bat binary
+*.JNLP binary
+*.jar binary

@@ -8,12 +8,12 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Send_Agent.jar" size="7948" download="eager" />
-    <jar href="Send_Agent.jar" size="7948" download="eager" />
-    <jar href="jackson-annotations-2.8.3.jar" size="55650" download="eager" />
-    <jar href="jackson-core-2.8.3.jar" size="281078" download="eager" />
-    <jar href="jackson-databind-2.8.3.jar" size="1233703" download="eager" />
-    <jar href="sqljdbc4.jar" size="584207" download="eager" />
+    <jar href="Send_Agent.jar" size="11052" download="eager" />
+    <jar href="Send_Agent.jar" size="11052" download="eager" />
+    <jar href="jackson-annotations-2.8.3.jar" size="56890" download="eager" />
+    <jar href="jackson-core-2.8.3.jar" size="282317" download="eager" />
+    <jar href="jackson-databind-2.8.3.jar" size="1234941" download="eager" />
+    <jar href="sqljdbc4.jar" size="585446" download="eager" />
   </resources>
   <jfx:javafx-desc  width="0" height="0" main-class="application.Main"  name="Agent" />
   <update check="background"/>
